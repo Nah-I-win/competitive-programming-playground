@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# App data (SQLite database lives here at runtime)
+data/
+*.db
+*.db-shm
+*.db-wal
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Screenshots / scratch
+smoke.png
